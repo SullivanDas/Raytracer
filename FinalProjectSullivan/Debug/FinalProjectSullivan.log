@@ -1,0 +1,25 @@
+﻿  RayTrace.cpp
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\image_lib.h(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\vec3.h(15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\sceneobject.h(230): warning C4018: '<': signed/unsigned mismatch
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(15): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(16): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(28): warning C4018: '<': signed/unsigned mismatch
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(185): warning C4018: '<': signed/unsigned mismatch
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\rayhelper.h(188): warning C4018: '<': signed/unsigned mismatch
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\schoolandstuff\college\2020-21\graphics\final\finalprojectsullivan\raytrace.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  FinalProjectSullivan.vcxproj -> D:\Schoolandstuff\College\2020-21\Graphics\Final\FinalProjectSullivan\Debug\FinalProjectSullivan.exe
